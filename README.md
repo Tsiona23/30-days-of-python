@@ -10,3 +10,4 @@ This repository documents my journey learning Python in 30 days.
 ## Progress
 
 Day 1 - Introduction ✅
+day 2 - variables and data types ✅
