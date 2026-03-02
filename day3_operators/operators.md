@@ -89,3 +89,13 @@ Bitwise operators are used to compare (binary) numbers.
                         falloff                                                  	x << 2	        
     >>      right shift	   Shift right by pushing copies of the leftmost bit in from the left, and let the   
               rightmost bits fall off	                                            x >> 2
+
+##  Operator Precedence
+  Order Python follows:
+
+1.()
+2.**
+3.* / // %
+4.+ -
+5.Comparison
+6.Logical
