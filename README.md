@@ -14,3 +14,5 @@ Day 1 - Introduction ✅
 Day 2 - variables and data types ✅
  
 Day 3 - operators ✅
+
+Day 4 - strings ✅
