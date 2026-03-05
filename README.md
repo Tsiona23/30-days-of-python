@@ -18,3 +18,5 @@ Day 3 - operators ✅
 Day 4 - strings ✅
 
 Day 5 - Lists ✅
+
+Day 6 - Tuples & Sets ✅
