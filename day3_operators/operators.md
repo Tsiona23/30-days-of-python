@@ -33,7 +33,7 @@ Used to assign values to variables.
 
 ## Operator	   Example	       Meaning
     =	       x = 5	       Assign value
-    +=         x += 3	       x = x + 3
+    +=           x += 3	       x = x + 3
     -=	       x -= 3	       x = x - 3
     *=	       x *= 3	       x = x * 3
     /=	       x /= 3	       x = x / 3
