@@ -20,3 +20,5 @@ Day 4 - strings ✅
 Day 5 - Lists ✅
 
 Day 6 - Tuples & Sets ✅
+
+Day 7 - Dictionaries  ✅
