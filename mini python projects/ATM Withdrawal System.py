@@ -1,5 +1,5 @@
-# atm withdrawal checker that asks a user to enter for withdrawal amount and checkIf withdraw > balance → Insufficient fundsElse → Transaction successful
-balance = 1000
+# atm withdrawal checker that Ask user for account balance, asks a user to enter withdrawal amount and checkIf withdraw > balance → Insufficient fundsElse → Transaction successful
+balance = float(input("enter ur balance:"))
 
 print("Welcome to the ATM")
 print("Your balance is:", balance)
