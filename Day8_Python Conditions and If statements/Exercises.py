@@ -32,3 +32,12 @@ elif score >= 50:
     print("Grade: C")
 else:
     print("Grade: F")    
+# write a password checker program
+password = "python123"
+
+user_password = input("Enter password: ")
+
+if user_password == password:
+    print("Access granted")
+else:
+    print("Access denied")
