@@ -1,11 +1,27 @@
 #Create a system that:Takes student marks,Calculates average, and Assigns grade.
-def count_vowels(text):
-    vowels = "aeiouAEIOU"
-    count = 0
-    
-    for char in text:
-        if char in vowels:
-         count += 1
-    return count
+def calculate_average(marks):
+    return sum(marks) / len(marks)
 
-print(count_vowels("Python"))
+
+def assign_grade(avg):
+    if avg >= 90:
+        return "A"
+    elif avg >= 75:
+        return "B"
+    elif avg >= 50:
+        return "C"
+    else:
+        return "F"
+
+
+def student_result(marks):
+    avg = calculate_average(marks)
+    grade = assign_grade(avg)
+    
+    print("Average:", avg)
+    print("Grade:", grade)
+
+
+# Example usage
+marks = [80, 70, 90]
+student_result(marks)
