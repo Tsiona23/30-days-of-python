@@ -31,3 +31,16 @@ def find_max(a, b, c):
     return max(a, b, c)
 
 print(find_max(3, 7, 5))
+
+#count vowles
+def count_vowels(text):
+    vowels = "aeiouAEIOU"
+    count = 0
+    
+    for char in text:
+        if char in vowels:
+            count += 1
+    
+    return count
+
+print(count_vowels("Python"))
