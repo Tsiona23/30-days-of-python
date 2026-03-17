@@ -24,3 +24,7 @@ Day 6 - Tuples & Sets ✅
 Day 7 - Dictionaries  ✅
 
 Day 8 - Conditions and if statements ✅ 
+
+Day9  - loops  ✅ 
+
+Day 10 - function  ✅ 
