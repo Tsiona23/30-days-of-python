@@ -30,3 +30,5 @@ Day9  - loops  ✅
 Day 10 - function  ✅ 
 
 Day 11 - modules  ✅ 
+
+Day 12 - file handling ✅ 
