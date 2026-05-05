@@ -32,6 +32,10 @@ Day 10 - function ✅
 
 Day 11 - modules ✅
 
+<<<<<<< HEAD
 Day 12 - file handling ✅
 
 Day 13 - Exeption Handling ✅
+=======
+Day 12 - file handling ✅ 
+>>>>>>> 42b7e12182970ebdb6017260c73d118d39e48653
