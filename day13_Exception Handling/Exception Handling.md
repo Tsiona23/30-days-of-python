@@ -2,14 +2,18 @@
 
 Python Exception Handling allows a program to gracefully handle unexpected events (like invalid input or missing files) without crashing. Instead of terminating abruptly, Python lets you detect the problem, respond to it, and continue execution when possible.
 
+
 - An exception is an error that occurs during program execution.
 - Instead of crashing, Python lets you catch and handle it.
+
 
 ## Difference Between Errors and Exceptions
 Errors and exceptions are both issues in a program, but they differ in severity and handling. Let's see how:
 
+
 Error: Serious problems in the program logic that cannot be handled. Examples include syntax errors or memory errors.
 Exception: Less severe problems that occur at runtime and can be managed using exception handling (e.g., invalid input, missing files).
+
 
 🔹 Basic Syntax
 try:
